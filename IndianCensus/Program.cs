@@ -10,6 +10,8 @@ namespace IndianCensus
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("**************Welcome To Indian State Census Analyser******************");
+            Console.Read ();
         }
     }
 }
